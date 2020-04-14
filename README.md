@@ -1,2 +1,3 @@
-# kairosdb-cluster-test
-KairosDB cluster infrastructure test using Docker
+# KairosDB cluster deployment and tests
+
+KairosDB cluster infrastructure deployment and connection tests using Docker containers.
