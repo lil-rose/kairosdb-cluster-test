@@ -23,7 +23,7 @@ tags = {
 
 list_datapoints = []
 
-n_datapoints = 3000 # number of datapoints to insert
+n_datapoints = 10000 #80000*60*15 # number of datapoints to insert for each time series
 
 for i in range(n_datapoints):
     value = randrange(1000)
